@@ -1,0 +1,10 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "helm",
+        "versions": [
+            "2.8.0",
+            "2.12.1"
+        ]
+    }
+}

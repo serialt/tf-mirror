@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PLATFORMS="linux_amd64 darwin_amd64"
+PLATFORMS="linux_amd64 darwin_amd64 darwin_arm64"
 MIRROR_PATH=./mirror
 
 PROVIDER_JSON=$1

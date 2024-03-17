@@ -1,0 +1,10 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "kubernetes",
+        "versions": [
+            "2.16.1",
+            "2.25.2"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "local",
+        "versions": [
+            "2.2.3"
+        ]
+    }
+}

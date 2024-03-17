@@ -1,0 +1,10 @@
+{
+    "provider": {
+        "namespace": "huaweicloud",
+        "name": "huaweicloud",
+        "versions": [
+            "1.48.0",
+            "1.58.0"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "gitlabhq",
+        "name": "gitlab",
+        "versions": [
+            "15.7.1"
+        ]
+    }
+}

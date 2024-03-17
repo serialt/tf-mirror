@@ -2,7 +2,7 @@
 
 TERRAFORM_RELEASES="https://releases.hashicorp.com/terraform"
 
-PLATFORMS="linux_amd64 darwin_amd64"
+PLATFORMS="linux_amd64 darwin_amd64 darwin_arm64"
 MIRROR_PATH=./mirror
 
 CORE_JSON=$1

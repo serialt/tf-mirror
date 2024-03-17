@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "goharbor",
+        "name": "harbor",
+        "versions": [
+            "3.10.6"
+        ]
+    }
+}

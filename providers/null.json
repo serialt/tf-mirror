@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "null",
+        "versions": [
+            "3.1.1"
+        ]
+    }
+}

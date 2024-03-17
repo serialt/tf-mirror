@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "grafana",
+        "name": "grafana",
+        "versions": [
+            "1.37.2"
+        ]
+    }
+}

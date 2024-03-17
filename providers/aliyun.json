@@ -1,0 +1,10 @@
+{
+    "provider": {
+        "namespace": "aliyun",
+        "name": "alicloud",
+        "versions": [
+            "1.197.0",
+            "1.204.1"
+        ]
+    }
+}

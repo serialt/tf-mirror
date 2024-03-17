@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "vancluever",
+        "name": "acme",
+        "versions": [
+            "2.19.0"
+        ]
+    }
+}

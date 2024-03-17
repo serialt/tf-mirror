@@ -3,8 +3,6 @@
     "namespace": "mrparkers",
     "name": "keycloak",
     "versions": [
-      "3.8.0",
-      "3.8.1",
       "4.2.0"
     ]
   }
