@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "kevholditch",
+        "name": "kong",
+        "versions": [
+            "6.5.0"
+        ]
+    }
+}

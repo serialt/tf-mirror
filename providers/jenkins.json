@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "taiidani",
+        "name": "jenkins",
+        "versions": [
+            "0.10.2"
+        ]
+    }
+}

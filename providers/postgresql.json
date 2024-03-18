@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "cyrilgdn",
+        "name": "postgresql",
+        "versions": [
+            "1.22.0"
+        ]
+    }
+}

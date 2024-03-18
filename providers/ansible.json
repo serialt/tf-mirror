@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "ansible",
+        "name": "ansible",
+        "versions": [
+            "1.2.0"
+        ]
+    }
+}

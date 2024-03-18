@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "time",
+        "versions": [
+            "0.11.1"
+        ]
+    }
+}

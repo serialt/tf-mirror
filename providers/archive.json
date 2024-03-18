@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "hashicorp",
+        "name": "archive",
+        "versions": [
+            "2.4.2"
+        ]
+    }
+}

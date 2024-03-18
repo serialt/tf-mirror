@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "alekc",
+        "name": "kubectl",
+        "versions": [
+            "2.0.4"
+        ]
+    }
+}

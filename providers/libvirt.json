@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "dmacvicar",
+        "name": "libvirt",
+        "versions": [
+            "0.7.6"
+        ]
+    }
+}
