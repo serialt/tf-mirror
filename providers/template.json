@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "serialt",
+        "name": "template",
+        "versions": [
+            "2.2.1"
+        ]
+    }
+}

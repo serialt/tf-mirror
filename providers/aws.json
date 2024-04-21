@@ -3,7 +3,7 @@
     "namespace": "hashicorp",
     "name": "aws",
     "versions": [
-      "5.31.0"
+      "5.37.0"
     ]
   }
 }

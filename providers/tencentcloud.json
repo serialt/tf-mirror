@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "tencentcloudstack",
+        "name": "tencentcloud",
+        "versions": [
+            "1.81.87"
+        ]
+    }
+}
