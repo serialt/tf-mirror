@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 PLATFORMS="linux_amd64 darwin_amd64 darwin_arm64"
 MIRROR_PATH=./mirror

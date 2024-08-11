@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "jdamata",
+        "name": "sonarqube",
+        "versions": [
+            "0.16.10"
+        ]
+    }
+}

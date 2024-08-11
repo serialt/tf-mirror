@@ -1,0 +1,9 @@
+{
+    "provider": {
+        "namespace": "petoju",
+        "name": "mysql",
+        "versions": [
+            "3.0.63"
+        ]
+    }
+}
